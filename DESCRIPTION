@@ -1,4 +1,4 @@
-Package: replaceMissingValue
+Package: MedianImputer
 Type: Package
 Title: Replace the Missing Values with Median
 Version: 0.1.0

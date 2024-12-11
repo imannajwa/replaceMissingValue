@@ -1,6 +1,6 @@
 exportPattern("^[[:alpha:]]+")
 
-
+export(MedianImputer)
 export(detect_missing_values)
 export(find_medians)
 export(replace_missing_with_median)
